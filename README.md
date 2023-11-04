@@ -9,8 +9,7 @@ Discover your next favorite movie with our app. Our platform fetches real-time d
 - webpack, html, js & css
 
 ## Live Demo 
-
-[Live demo](http://cryptoova.me/MovieApp/dist/index.html)
+[Live demo](https://moviesomnia.netlify.app/)
 
 ## Getting Started
 
